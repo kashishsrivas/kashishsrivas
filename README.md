@@ -1,7 +1,7 @@
 # About Me:
 
 Hi There! Kashish Here 😊  
-🌱 Currently, I'm exploring Web Dev and Data Analytics.  
+🌱 Currently, I'm exploring Software Development and Frontend Development  
 📚 Learning DSA and solving coding problems.  
 🏅 Contributed to projects in the Headstarter Fellowship and IBMSkillsbuild.  
 💬 Open to collaboration on projects related to Web Dev, Data Analysis, and Open-Source.  
