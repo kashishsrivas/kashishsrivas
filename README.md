@@ -1,12 +1,19 @@
 # About Me:
 
-Hi There! Kashish Here 😊
-💼 Currently working at HCLTech
-🌱 Exploring Backend Development with Java, Spring Boot, and Software Development.
-📚 Learning DSA, Backend Architecture, APIs, and Database Management.
-🏅 Worked on projects through Headstarter Fellowship, IBM SkillsBuild, and personal development practice.
-💬 Open to collaboration on Backend Development, Java Projects, APIs, and Open-Source contributions.
+Hi There! Kashish Here 😊  
+
+💼 Currently working at HCLTech  
+
+🌱 Exploring Backend Development with Java, Spring Boot, and Software Development.  
+
+📚 Learning DSA, Backend Architecture, APIs, and Database Management.  
+
+🏅 Worked on projects through Headstarter Fellowship, IBM SkillsBuild, and personal development practice.  
+
+💬 Open to collaboration on Backend Development, Java Projects, APIs, and Open-Source contributions.  
+
 ⚡ Fun fact: I enjoy singing and listening to music.
+
 
 ## 🌐 Socials:
 
