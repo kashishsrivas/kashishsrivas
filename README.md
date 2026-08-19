@@ -1,22 +1,60 @@
-# About Me:
+# Hi, I'm Kashish. 
 
-Hi There! Kashish Here 😊  
+🎓 Computer Science & Engineering graduate (2025)
 
-💼 Currently working at HCLTech  
+💻 Backend Developer | Java & Spring Boot
 
-🌱 Exploring Backend Development with Java, Spring Boot, and Software Development.  
+☁️ Interested in Cloud, Microservices & AI-driven Applications
 
-📚 Learning DSA, Backend Architecture, APIs, and Database Management.  
+🚀 Currently learning Go (Golang) to expand my backend and systems programming skills.
 
-🏅 Worked on projects through Headstarter Fellowship, IBM SkillsBuild, and personal development practice.  
+---
 
-💬 Open to collaboration on Backend Development, Java Projects, APIs, and Open-Source contributions.  
+## 🛠️ Tech Stack
+### Languages
 
-⚡ Fun fact: I enjoy singing and listening to music.
+🔹 Java, Python, JavaScript, C++, SQL, HTML5, CSS3, JavaScript
+
+🔹 Currently learning Go
+
+### Backend & APIs
+
+🔹 Spring Boot, REST APIs, Flask
+
+🔹 Microservices, CRUD
+
+### Databases
+
+🔹 PostgreSQL, MySQL, Firebase
+
+🔹 Cloud & Developer Tools
+
+🔹 AWS, Google Cloud Platform (GCP), Microsoft Azure
+
+---
+
+## 💼 Experience
+### Graduate Engineer Trainee — HCLTech (2025–2026)
+
+Worked on backend microservices using Java and Spring Boot, developed and integrated RESTful APIs, and collaborated with development and QA teams on enterprise applications. Also contributed to Agentic AI workflows on AWS.
+Trainee – Backend Developer — HCLTech (2025)
+
+---
+
+## 📈 Coding & Learning
+🔹 Actively strengthening DSA, backend development, and system design
+
+🔹 Exploring Go alongside my existing Java backend experience
+
+🔹 Interested in building practical projects and learning through implementation
+
+🔹 Always looking to understand how systems work under the hood
+
+## 🤝 Connect With Me
+📧 Email: work.kashishsrivastava@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kashish-srivastava04/
 
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashish-srivastava-54713424a/) 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/i_kashishsrivas)
-
+⭐ Thanks for visiting my profile!
+ 
