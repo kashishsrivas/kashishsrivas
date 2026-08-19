@@ -37,7 +37,6 @@
 ### Graduate Engineer Trainee — HCLTech (2025–Present)
 
 Worked on backend microservices using Java and Spring Boot, developed and integrated RESTful APIs, and collaborated with development and QA teams on enterprise applications. Also contributed to Agentic AI workflows on AWS.
-Trainee – Backend Developer — HCLTech (2025)
 
 ---
 
