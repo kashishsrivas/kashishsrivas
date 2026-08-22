@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 ### Languages
 
-🔹 Java, Python, JavaScript, C++, SQL, HTML5, CSS3, JavaScript
+🔹 Java, Python, C++, SQL, HTML5, CSS3, JavaScript
 
 🔹 Currently learning Go
 
@@ -29,7 +29,7 @@
 
 🔹 Cloud & Developer Tools
 
-🔹 AWS, Google Cloud Platform (GCP), Microsoft Azure
+🔹 Google Cloud Platform (GCP)
 
 ---
 
